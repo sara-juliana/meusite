@@ -12,15 +12,16 @@ h1 {
 }
 
 h2 {
-    color: #553801;
-    text-align: center;
-}
-
-h3 {
     font-size: 2rem;
     font-style: italic;
     text-align: center;
-    color: #553801;
+    color: #74024a;
+}
+
+h3 {
+    font-size: 1.4rem;
+    color: #74024a;
+    text-align: left;
 }
 
 body {
