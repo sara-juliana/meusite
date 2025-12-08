@@ -5,7 +5,7 @@ Descrição curta: site simples em HTML/CSS com indicações de livros, séries 
 
 Conteúdo deste repositório
 
-index.html — página principal (o HTML que você enviou).
+index.html — página principal.
 
 estilos.css — folha de estilo (CSS) usada pelo index.html.
 
