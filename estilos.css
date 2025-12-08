@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght,CRSV@100..900,1&family=Playwrite+NZ+Guides&family=Playwrite+US+Trad+Guides&family=Tilt+Neon&display=swap');
+
+h1 {
+    font-family: "Playwrite NZ Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+    line-height: 9rem;
+    text-align: center;
+    background: #FFF461;
+    color: black;
+}
+
+h2 {
+    color: #553801;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2rem;
+    font-style: italic;
+    text-align: center;
+    color: #553801;
+}
+
+body {
+    font-family: "Tilt Neon", sans-serif;
+    background-image: linear-gradient(to right, #f2dcd4, #db95b1, #d1bae1);
+}
+
+p {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.livros {
+    width: 60%;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+.livros th {
+    background-color: #d0a4f0;
+    color: black;
+    text-align: center;
+}
+
+.livros tr {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.livros tr:nth-child(even) {
+    background-color: white;
+}
+
+.livros tr:nth-child(odd) {
+    background-color: #FFF461;
+}
+
+.trilogia {
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.familia {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+
+}
+
+.filme {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.camera {
+    list-style-image: url('Imagens/camera.png');
+}
+
+a {
+    text-decoration: none;
+    color: #39035f;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
